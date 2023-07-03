@@ -1,4 +1,4 @@
-# RUNI-NLP
+# Heart Disease Analysis
 K-Means Clustering for Heart Disease Analysis
 
 
